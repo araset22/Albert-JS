@@ -1,4 +1,4 @@
-console.log('Albert')
-console.log('Raset Hernández')
-console.log('19 anys')
-console.log('31/08/2002')
+var nom = 'Albert'
+var a = true
+var x = 50
+console.log(nom, a, x)
