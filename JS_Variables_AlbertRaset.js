@@ -1,3 +1,3 @@
-var x = 50
-var y = 'No se que posar'
-console.log(x / y)
+var nom = 'Albert Raset Hernández'
+var cognom = nom.slice(7,12)
+console.log(cognom + ' ' + cognom.length)
