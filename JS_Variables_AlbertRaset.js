@@ -1,3 +1,3 @@
-var nom = 'Albert Raset Hernández'
-var canvi = nom.replace('t','')
-console.log(canvi)
+var x = undefined
+var y = null
+console.log(x + y)
