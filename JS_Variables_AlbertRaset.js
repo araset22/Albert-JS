@@ -1,2 +1,2 @@
-console.log(Boolean('Hola que tal'))
-console.log(true || 'Hola com va')
+console.log(Number(true))
+console.log(20 != true)
