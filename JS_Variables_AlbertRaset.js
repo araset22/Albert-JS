@@ -1,3 +1,2 @@
-var x = undefined
-var y = null
-console.log(x + y)
+console.log(String(true))
+console.log(String + true)
