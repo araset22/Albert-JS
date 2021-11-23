@@ -1,2 +1,2 @@
-console.log(String(true))
-console.log(String + true)
+console.log(Boolean('Hola que tal'))
+console.log(true || 'Hola com va')
